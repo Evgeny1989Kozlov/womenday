@@ -21,7 +21,8 @@ body {
 body {
   color: #1b3d66;
   line-height: 1;
-  font-family: "Roboto+Slab";
+  font-family: "Roboto Slab";
+	font-weight: 400
   font-size: 0.875rem;
   -ms-text-size-adjust: 100%;
   -moz-text-size-adjust: 100%;
